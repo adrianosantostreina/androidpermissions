@@ -1,4 +1,4 @@
-Repositório do exemplo TAddressBook
+Repositório do exemplo Android Permissions
 
 Se tiver dúvidas, acesse nosso grupo aberto de seguidores do TDevRocks <br>
 https://goo.gl/kD1eJF
